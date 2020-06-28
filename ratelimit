@@ -1,0 +1,51 @@
+<html>
+	<head>
+        <meta charset="UTF-8">
+		<title>( ^ T w T ^ )限制访问!</title>
+		<link href='https://fonts.loli.net/css?family=Lato:400' rel='stylesheet' type='text/css'>
+        
+
+		<style>
+			body {
+				margin: 0;
+				padding: 0;
+				width: 100%;
+				height: 100%;
+				color: #26453D;
+				display: table;
+				font-weight: 400;
+				font-family: 'Lato';
+			}
+
+			.container {
+				text-align: center;
+				display: table-cell;
+				vertical-align: middle;
+			}
+
+			.content {
+				text-align: center;
+				display: inline-block;
+			}
+
+			.title {
+				font-size: 42px;
+				margin-bottom: 40px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="content">
+				<div class="title">您的访问请求受到限制[Code 1015]</div>
+				<a href="#" target="_blank"><img src="https://i.loli.net/2020/06/28/fDhsMxdYgtbeUJl.png" ></a>
+				<p>发生了什么？<p>
+				<p>您的ip段因大量请求被识别为非法攻击，防火墙已暂时屏蔽您所属ip的所有请求，您可以尝试稍后访问</p>
+				<p>::CLOUDFLARE_ERROR_500S_BOX::</p>
+			<p><small>由Cloudflare与Baidu CDN Network提供网站安全保护</small></p>
+			<p><small>--This Page was coded by Hypeneko--</small></p>
+			</div>
+			
+		</div>
+	</body>
+</html>
